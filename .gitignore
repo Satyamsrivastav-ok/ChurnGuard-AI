@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+
+.streamlit/secrets.toml
+
+users.db
+
+.env
+
+.DS_Store
+.ipynb_checkpoints/
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Notebook generated models
+notebooks/*.pkl
