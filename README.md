@@ -135,3 +135,20 @@ streamlit run app.py
 ## Notes
 
 This project is designed as a practical AI product prototype for churn prediction and customer retention strategy, with a polished interface suitable for demos, hackathons, and portfolio presentations.
+## 🌐 Live Demo
+
+The complete ChurnGuard AI application is deployed and available online.
+
+You can directly test the live application here:
+
+🔗 **Live App:**  
+https://churnguard-ai-boapdtun9tua2wd9tbtiex.streamlit.app/
+
+Explore the complete workflow:
+- Create an account / login
+- Enter customer details
+- Get churn prediction
+- View risk analysis and personalized recommendations
+- Explore analytics dashboard and download reports
+
+Feel free to test the application and experience the complete AI-powered customer retention system.
